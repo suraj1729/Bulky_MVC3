@@ -17,7 +17,7 @@ function loadDataTable() {
                     <a href="" class="btn btn-primary mx-2"> <i class="bi bi-pencil-square"></i> Edit</a>
                     </div>`
             },
-            "width":"15%"
+            "width": "15%"
         ]
     });
 }
